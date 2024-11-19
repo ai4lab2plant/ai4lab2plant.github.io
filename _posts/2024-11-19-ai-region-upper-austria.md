@@ -11,12 +11,18 @@ author: jzenisek
 image: /blog/resources/2024-11-19-ai-region-upper-austria/slide01.jpg
 ---
 
+<style>
+  p {
+    text-align: justify
+  }
+</style>
+
 Von insgesamt 34 eingereichten Projekten im Rahmen des Fördercalls, hat eine internationale Expertenjury beschlossen, dass 11 innovative Vorhaben Förderungen des Wirtschaftsressorts des Landes OÖ erhalten sollen. Das kooperative F&E-Projekt AI4Lab2Plant ist eines davon!
 
 <!--more-->
+
 Unter dem Titel "AI-Region Upper Austria 2024" hat das Land OÖ eine Förder-Ausschreibung gestartet, um den Einsatz von Künstlicher Intelligenz (KI) als Treiber für die digitale Transformation der oberösterreichischen Wirtschaft voranzutreiben. 11 von 34 eingereichten Projekten erhalten Förderungen des Wirtschaftsressorts. Die Gesamtinvestitionssumme beträgt 10,5 Millionen Euro, wovon ca. 8 Millionen Euro Landesförderung sind. Die Ausschreibung richtete sich an Kooperationsprojekte von Unternehmen und Forschungseinrichtungen (siehe [News Beitrag der Biz-Up][bizup]{:target="_blank"}). Besonderes Augenmerk wurde auf vertrauenswürdige KI gelegt, die gesetzliche Bestimmungen einhält und ethische Grundsätze beachtet.
 
-**AI4Lab2Plant**
 AI4Lab2Plant will die Praxistauglichkeit von Machine Learning-Algorithmen und -Modellen im industriellen Umfeld verbessern. Dafür untersucht das Konsortium die Machbarkeit anhand des Beschichtungsprozesses von Stranggussformen in der Stahlindustrie. Durch die Kombination neuartiger Algorithmen und Domänenwissen sollen Vorhersagemodelle für Beschichtungseigenschaften entstehen, die nicht nur im Labor, sondern auch in großtechnischen Produktionsanlagen funktionieren. Die entwickelten Methoden sollen als Open Source Software veröffentlicht werden und so einen niederschwelligen Zugang für weitere Anwendungsfälle gewährleisten.
 
 *Projektpartner\*innen:*
