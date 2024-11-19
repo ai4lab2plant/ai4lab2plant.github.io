@@ -1,0 +1,105 @@
+languages: 
+  de:
+    id: de
+    name: Deutsch
+    urlbase: de
+  en:
+    id: en
+    name: English
+    urlbase: en
+
+default: de
+
+logo:
+  upperaustria:
+    en: "assets/img/logos/logo_upperaustria_en.png"
+    de: "assets/img/logos/logo_upperaustria_de.png"
+
+t:
+  nav:
+    info:
+      en: "Info"
+      de: "Info"
+    publications:
+      en: "Publications"
+      de: "Publikationen"
+    blog:
+      en: "Blog"
+      de: "Blog"
+    blog-preview:
+      en: "Blog Preview"
+      de: "Blog Vorschau"
+    team:
+      en: "Team"
+      de: "Team"
+    partners:
+      en: "Partners"
+      de: "Partner"
+    contact:
+      en: "Contact"
+      de: "Kontakt"
+
+  links:
+    swph:
+      en: "https://www.softwarepark-hagenberg.com/en/"
+      de: "https://www.softwarepark-hagenberg.com/"
+    fhooe:
+      en: "https://www.fh-ooe.at/en/"
+      de: "https://www.fh-ooe.at/"
+
+  pages:
+    imprint:
+      en: "Imprint"
+      de: "Impressum"
+    imprint-link:
+      en: "imprint"
+      de: "impressum"
+    dataprotection:
+      en: "Data Protection"
+      de: "Datenschutz"
+    dataprotection-link:
+      en: "dataprotection"
+      de: "datenschutz"
+    press:
+      en: "Press Material"
+      de: "Pressematerial"
+    press-link:
+      en: "press"
+      de: "pressematerial"
+    sitemap:
+      en: "Sitemap"
+      de: "Sitemap"
+
+  footer:
+    fhooe:
+      en: "FH Upper Austria"
+      de: "FH Oberösterreich"
+    fhooe-link:
+      en: "https://www.fh-ooe.at/en/"
+      de: "https://www.fh-ooe.at/"
+    uv30-link:
+      en: "https://www.uppervision.at/en/"
+      de: "https://www.uppervision.at/"
+    imprint:
+      en: "Imprint"
+      de: "Impressum"
+    dataprotection:
+      en: "Data Protection"
+      de: "Datenschutz"
+    contact:
+      en: "Contact"
+      de: "Kontakt"
+    press:
+      en: "Press Material"
+      de: "Pressematerial"
+    fhooefull:
+      en: "University of Applied Sciences Upper Austria"
+      de: "Fachhochschule Oberösterreich"
+    fundingtext:
+      en: 'The project Secure Prescriptive Analytics is founded by the country of Upper Austria as part of the program #upperVISION2030. For more information go to'
+      de: 'Das Projekt Secure Prescriptive Analytics wird durch das Land Oberösterreich finanziert als Teil des Programms #upperVISION2030. Nähere Informationen dazu unter'
+
+
+  months:
+    en: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    de: ["Jänner", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember" ]

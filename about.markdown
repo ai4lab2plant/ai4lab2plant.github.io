@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Diese Website informiert über das kooperative F&E-Projekt **AI4Lab2Plant** der FH OÖ Forschungs- und Entwicklungs GmbH, K1-MET GmbH und voestalpine Stahl GmbH, gefördert durch die Initiative *[AI Region Upper Austria][ffg]* des **Landes Oberösterreich** im Rahmen der Wirtschafts- und Forschungsstrategie *[#upperVISION2030][uv]*.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[ffg]: https://www.ffg.at/AI-Region-UpperAustria
+[uv]: https://www.uppervision.at/

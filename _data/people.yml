@@ -1,0 +1,51 @@
+groups:
+  - name: FH OÖ - HEAL
+    address: Softwarepark 13
+    members:
+      - nick: jzenisek
+        firstname: Jan
+        lastname: Zenisek
+        prefix:
+        postfix: MSc
+        function:
+          en: Project Lead
+          de: Projektleitung
+        phone: +43 5 0804 27142
+        mail: jan.zenisek@fh-ooe.at
+        photo: jzenisek.jpg
+
+      - nick: pfleck
+        firstname: Philipp
+        lastname: Fleck
+        prefix:
+        postfix: MSc
+        function:
+          en: Research Associate
+          de: Wissenschaftlicher Mitarbeiter
+        phone: +43 5 0804 27142
+        mail: philipp.fleck@fh-ooe.at
+        photo: pfleck.jpg
+
+      - nick: maffenzeller
+        firstname: Michael
+        lastname: Affenzeller
+        prefix: FH-Prof. PD DI Dr.
+        postfix:
+        function:
+          en: Professor
+          de: Professor
+        phone: +43 5 0804 666
+        mail:  michael.affenzeller@fh-ooe.at
+        photo: maffenzeller.jpg
+
+      - nick: mbeneder
+        firstname: Michaela
+        lastname: Beneder
+        prefix: Mag.
+        postfix:
+        function:
+          en: Project Coordination
+          de: Projektkoordination
+        phone: +43 664 80484 27160
+        mail: michaela.beneder@fh-ooe.at
+        photo: mbeneder.jpg

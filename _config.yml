@@ -18,22 +18,59 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: AI4Lab2Plant
+email: jan.zenisek@fh-hagenberg.at
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Website des Forschungsprojekts AI4Lab2Plant
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://ai4lab2plant.fh-ooe.at" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ai4lab2plant
+lang: de
+author: AI4Lab2Plant
+keywords: Research Project, Transfer Learning, Interpretable Machine Learning, Continuous Casting
+
+# SEO
+google_analytics: false
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-feed-paginate
 
+regenerate: false
+show_drafts: false
+future: false
+
+blogname: "news"
+permalink: news/:year/:month/:day/:title/
+paginate: 20
+paginate_path: "news/page:num/"
+
+collections:
+  category:
+    output: true
+    permalink: /news/:name/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
+
+excerpt_separator: <!--more-->
+
+sass:
+    style: compressed
+
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
