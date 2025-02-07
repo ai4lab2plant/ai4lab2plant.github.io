@@ -38,6 +38,9 @@ t:
     contact:
       en: "Contact"
       de: "Kontakt"
+    publications:
+      en: "Publications"
+      de: "Publikationen"
 
   links:
     swph:
@@ -46,6 +49,9 @@ t:
     fhooe:
       en: "https://www.fh-ooe.at/en/"
       de: "https://www.fh-ooe.at/"
+    github:
+      en: "https://github.com/ai4lab2plant"
+      de: "https://github.com/ai4lab2plant"
 
   pages:
     imprint:
@@ -77,6 +83,24 @@ t:
     fhooe-link:
       en: "https://www.fh-ooe.at/en/"
       de: "https://www.fh-ooe.at/"
+    heal:
+      en: "Heuristic and Evolutionary Algorithms Laboratory"
+      de: "Heuristic and Evolutionary Algorithms Laboratory"
+    heal-link:
+      en: "https://heal.heuristiclab.com"
+      de: "https://heal.heuristiclab.com"
+    k1met:
+      en: "K1-MET"
+      de: "K1-MET"
+    k1met-link:
+      en: "https://www.k1-met.com/en/"
+      de: "https://www.k1-met.com/"
+    vas:
+      en: "voestalpine Steel"
+      de: "voestalpine Stahl"
+    vas-link:
+      en: "https://www.voestalpine.com/stahl/en/Companies/voestalpine-Stahl-GmbH"
+      de: "https://www.voestalpine.com/stahl/Gesellschaften/voestalpine-Stahl-GmbH"
     uv30-link:
       en: "https://www.uppervision.at/en/"
       de: "https://www.uppervision.at/"
