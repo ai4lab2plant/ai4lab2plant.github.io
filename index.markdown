@@ -15,7 +15,7 @@ description: Website des Forschungsprojekts AI4Lab2Plant
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <p class="text-justify">
-                    **AI4Lab2Plant** ist ein kooperatives F&E-Projekt der FH OÖ Forschungs- und Entwicklungs GmbH, K1-MET GmbH und voestalpine Stahl GmbH, gefördert durch die Initiative *[AI Region Upper Austria][ffg]* des **Landes Oberösterreich** im Rahmen der Wirtschafts- und Forschungsstrategie *[#upperVISION2030][uv]*.
+                    AI4Lab2Plant ist ein kooperatives F&E-Projekt der FH OÖ Forschungs- und Entwicklungs GmbH, K1-MET GmbH und voestalpine Stahl GmbH, gefördert durch die Initiative AI Region Upper Austria des Landes Oberösterreich im Rahmen der Wirtschafts- und Forschungsstrategie #upperVISION2030.
                 </p>
                 <p class="text-justify">
                 Das kooperative F&E-Projekt AI4Lab2Plant der FH OÖ F&E GmbH Forschungsgruppe HEAL (FHOOE-HEAL), K1-MET GmbH (K1-MET) und voestalpine Stahl GmbH (VAS) zielt darauf ab, die Praxistauglichkeit von Machine Learning -Algorithmen und -Modellen zu verbessern. Mit der Entwicklung neuartiger Algorithmen und unter Einbindung von Domänenwissen, sollen Vorhersagemodelle erzeugt werden, die nicht nur unter Laborbedingungen, sondern z.B. auch im Kontext einer großtechnischen Produktionsanlage funktionieren. Dies soll zur Effizienzsteigerung, Qualitätsverbesserung und Ressourcenschonung im industriellen Umfeld beitragen. Wichtige Aspekte beim Einsatz von Machine Learning (-Modellen) sind hierbei:
