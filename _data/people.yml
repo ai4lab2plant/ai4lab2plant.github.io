@@ -49,3 +49,18 @@ groups:
         phone: +43 664 80484 27160
         mail: michaela.beneder@fh-ooe.at
         photo: mbeneder.jpg
+
+  - name: VAS
+    address: Stahlstraße 14
+    members:
+      - nick: wrannetbauer
+        firstname: Wolfgang
+        lastname: Rannetbauer
+        prefix:
+        postfix: MSc
+        function:
+          en: Research Associate
+          de: Wissenschaftlicher Mitarbeiter
+        phone: +43 5 0804 27142
+        mail: wolfgang.rannetbauer@voestalpine.at
+        photo: wrannetbauer.jpg

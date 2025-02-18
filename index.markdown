@@ -9,7 +9,7 @@ title: AI4Lab2Plant
 description: Website des Forschungsprojekts AI4Lab2Plant
 ---
 
-<section class="background-light pad" id="welcome">
+<section class="background-light pad" id="info">
     <div class="container text-justify">
         <h1>Projektinformationen</h1>
         <div class="row">
@@ -39,7 +39,7 @@ description: Website des Forschungsprojekts AI4Lab2Plant
     </div>
 </section>
 
-<section class="background-dark pad" id="news">
+<section class="background-dark pad" id="blog">
     <div class="container">
         <h1>Von unserem Blog...</h1>
         {% if site.posts.size > 0 %}
@@ -60,6 +60,31 @@ description: Website des Forschungsprojekts AI4Lab2Plant
         {% endif %}
     </div>
 </section>
+
+<section class="background-light pad" id="team">
+    <div class="container text-justify">
+        <h1>Team</h1>
+        <div class="row contact-info">
+            <div class="col-lg-6 col-md-12">
+                <h4>Jan Zenisek</h4>
+                <table class="contact-table">
+                    <tr><td>Funktion:</td><td>Projektleitung</td></tr>
+                    <tr><td>Tel.:</td><td>+43 50804 27114</td></tr>                  
+                    <tr><td>Mail:</td><td><a href="mailto:jan.zenisek@fh-ooe.at">jan.zenisek@fh-ooe.at</a></td></tr>
+                </table>
+            </div>
+            <div class="col-lg-6 col-md-12">
+                <h4>Michaela Beneder</h4>
+                <table class="contact-table">
+                    <tr><td>Funktion:</td><td>Koordination</td></tr>
+                    <tr><td>Tel.:</td><td>+43 50804 27160</td></tr>                    
+                    <tr><td>Mail:</td><td><a href="mailto:michaela.beneder@fh-ooe.at">michaela.beneder@fh-ooe.at</a></td></tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 {% include map.html %}
 

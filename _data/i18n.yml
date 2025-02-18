@@ -43,6 +43,9 @@ t:
       de: "Publikationen"
 
   links:
+    ai4lab2plant:
+      en: https://ai4lab2plant.github.io/en/
+      de: https://ai4lab2plant.github.io/
     swph:
       en: "https://www.softwarepark-hagenberg.com/en/"
       de: "https://www.softwarepark-hagenberg.com/"

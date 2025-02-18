@@ -1,12 +1,14 @@
 ---
 title: Blog
-layout: page
+layout: blog
 lang: de
 description: Erfahren Sie mehr über unsere aktuellen Tätigkeiten und News.
+custom_css:
+- blog
 ---
 <section id="bloglist">
   <div class="container">
-
+    <h2>Blog</h2>
     {% if site.posts.size > 0 %}
     <div class="row">
       <div class="col-lg-9 col-md-9 col-sm-12">
@@ -14,8 +16,7 @@ description: Erfahren Sie mehr über unsere aktuellen Tätigkeiten und News.
         {% include post_preview.html %}
       {% endfor %}
       </div>
-      <br/><hr/><br/>
-      <div class="col-lg-3 col-md-3 col-sm-12">        
+      <div class="col-lg-3 col-md-3 col-sm-12">
         {% include blog_sidebar.html %}
       </div>
     </div>
@@ -23,9 +24,9 @@ description: Erfahren Sie mehr über unsere aktuellen Tätigkeiten und News.
       {% if paginator.total_pages > 1 %}
       <div class="pagination">
         {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Zurück</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Back</a>
         {% else %}
-          <span>&laquo; Zurück</span>
+          <span>&laquo; Back</span>
         {% endif %}
 
         {% for page in (1..paginator.total_pages) %}
@@ -39,9 +40,9 @@ description: Erfahren Sie mehr über unsere aktuellen Tätigkeiten und News.
         {% endfor %}
 
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Weiter &raquo;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
         {% else %}
-          <span>Weiter &raquo;</span>
+          <span>Next &raquo;</span>
         {% endif %}
       </div>
       {% endif %}
