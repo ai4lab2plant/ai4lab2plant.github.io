@@ -64,6 +64,36 @@ description: Website des Forschungsprojekts AI4Lab2Plant
 <section class="background-light pad" id="team">
     <div class="container text-justify">
         <h1>Team</h1>
+
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <p>Die Entwicklung innovativer Methoden und Konzepte im Forschungsfeld Transfer Learning und dem Anwendungsgebiet Beschichtungsprozesstechnik verlangt nach der Synthese von Forschungsdisziplinen. Ein Schlüssel zum Erfolg dieses Forschungsprojekts liegt daher in der Zusammenarbeit eines interdispziplinären Teams, das verschiedene Kompetenzen einbringt und zusammenführt. Am Projekt AI4Lab2Plant sind Forscher*innen der Organisationen <i>FH OÖ F&E GmbH Forschungsgruppe HEAL, K1-MET GmbH</i> und <i>voestalpine Stahl GmbH</i> beteiligt.</p>
+            </div>
+        </div>
+
+        <div class="row image-row">
+            <div class="col-lg-3 col-md-12 text-center topic-box">
+                <a target="_blank" href="{{ site.data.i18n.t.links.fhooe[page.lang] }}"><br/>
+                <figure class="image-box"><img id="image-fhlogo" src="/{{ site.data.assets.image-fhlogo }}" /></figure>
+                <br/><br/><br/></a>
+            </div>
+            <div class="col-lg-3 col-md-12 text-center topic-box">            
+                <a target="_blank" href="{{ site.data.i18n.t.links.heal[page.lang] }}"><br/>
+                <figure class="image-box"><img id="image-heallogo" src="/{{ site.data.assets.image-heallogo }}" /></figure>
+                <br/><br/><br/></a>
+            </div>
+            <div class="col-lg-3 col-md-12 text-center topic-box">
+                <a target="_blank" href="{{ site.data.i18n.t.links.k1met[page.lang] }}"><br/>
+                <figure class="image-box"><img id="image-k1metlogo" src="/{{ site.data.assets.image-k1metlogo }}" /></figure>
+                <br/><br/><br/></a>
+            </div>
+            <div class="col-lg-3 col-md-12 text-center topic-box">
+                <a target="_blank" href="{{ site.data.i18n.t.links.vas[page.lang] }}"><br/>
+                <figure class="image-box"><img id="image-vaslogo" src="/{{ site.data.assets.image-vaslogo }}" /></figure>
+                <br/><br/><br/></a>
+            </div>
+        </div>
+
         <div class="row contact-info">
             <div class="col-lg-6 col-md-12">
                 <h4>Jan Zenisek</h4>
