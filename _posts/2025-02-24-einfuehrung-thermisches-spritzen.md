@@ -35,7 +35,7 @@ Je nach eingesetztem Verfahren können zusätzliche Hilfssysteme erforderlich se
 
 <br/>
 ![schema.png](/blog/resources/2025-02-24-einfuehrung-thermisches-spritzen/schema.png) 
-*Abbildung 1: Schematische Darstellung des thermischen Beschichtungsprozesses (adaptiert nach ([OerlikonMetco, 2025](ttps://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/))).*
+*Abbildung 1: Schematische Darstellung des thermischen Beschichtungsprozesses (adaptiert nach ([OerlikonMetco, 2025](https://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/))).*
 
 ## Vorteile und Grenzen des Verfahrens
 
@@ -61,7 +61,7 @@ Allerdings bringt diese Technologie auch Einschränkungen mit sich. Die Haftung 
 
 
 ### Literaturverzeichnis
-OerlikonMetco. (01 2025). Von oerlikon.com: [https://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/](ttps://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/) abgerufen
+OerlikonMetco. (01 2025). Von oerlikon.com: [https://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/](https://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/) abgerufen
 
 Schuler, V., & Twrdek, J. (2019). Auftragschweißen und Thermisches Spritzen. Praxiswissen Schweißtechnik: Werkstoffe, Prozesse, Fertigung, 263--290.
 
