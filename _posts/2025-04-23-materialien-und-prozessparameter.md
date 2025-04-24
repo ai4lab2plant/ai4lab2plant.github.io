@@ -29,13 +29,15 @@ Im Prinzip eignet sich jedes Material, das sich beim Schmelzen nicht zersetzt, a
 | Werkstoffgruppe | Typische Legierung | Anwendungen                                        |
 |-----------------|--------------------|----------------------------------------------------|
 | Reine Metalle   | Al, Zn             | Korrosionsschutz                                   |
-| Oxide           | Al₂O₃              | Oxidationsbeständig, Verschleißschutz              |
+| Oxide           | Al2O3              | Oxidationsbeständig, Verschleißschutz              |
 | Karbide         | WC-12Co            | Verschleißschutz                                   |
 | MCrAlY          | NiCrAlY            | Schutz gegen Hochtemperaturkorrosion und -oxidation|
 | Stahl           | Fe-13Cr            | Reparatur, Korrosionsschutz                        |
 | Titan           | Ti                 | Medizin                                            |
-| Chromkarbid     | CrC               | Verschleiß-, Oxidationsschutz                      |
+| Chromkarbid     | CrC                | Verschleiß-, Oxidationsschutz                      |
+
 **Tabelle 1:** Häufig eingesetzte Beschichtungsmaterialien und deren Anwendungsgebiete (Auszug).
+
 
 Die Auswahl eines geeigneten Beschichtungsmaterials erfordert fundierte Kenntnisse über die Einsatzbedingungen sowie die spezifischen Eigenschaften des Werkstoffs. Neben den physikalischen und chemischen Eigenschaften spielen bei pulverförmigen Materialien auch die Phasenzusammensetzung, die Partikelgröße und die Herstellungsart eine zentrale Rolle:
 - **Phasenzusammensetzung:** Die Phasenverteilung eines Pulvers beeinflusst maßgeblich die resultierenden Beschichtungseigenschaften. Während des Beschichtungsprozesses können bestimmte Phasen gebildet oder zerstört werden. Die Kombination aus Pulver- und Prozessparametern bestimmt daher die Qualität der Schicht.
@@ -46,7 +48,7 @@ Die Auswahl eines geeigneten Beschichtungsmaterials erfordert fundierte Kenntnis
 
 <br/>
 ![herstellungsverfahren_pulver.png](/blog/resources/2025-04-23-materialien-und-prozessparameter/herstellungsverfahren_pulver.png) 
-*Abbildung 2: Unterschiede in der Partikelform und -größe basierend auf verschiedenen Herstellungsverfahren. Mikroskopaufnahmen zeigen charakteristische Eigenschaften der Pulver. Adaptiert aus ([OerlikonMetco, 2025](hhttps://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/)).*
+*Abbildung 2: Unterschiede in der Partikelform und -größe basierend auf verschiedenen Herstellungsverfahren. Mikroskopaufnahmen zeigen charakteristische Eigenschaften der Pulver. Adaptiert aus ([OerlikonMetco, 2025](https://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/)).*
 <br/>
 
 ## Charakteristika der Beschichtungen
@@ -63,7 +65,7 @@ Die Mikrostruktur einer thermisch gespritzten Schicht ist somit ein direkter Ind
 
 <br/>
 ![mikrostruktur.png](/blog/resources/2025-04-23-materialien-und-prozessparameter/mikrostruktur.png) 
-*Abbildung 3: Schematische Darstellung der Mikrostruktur einer thermisch gespritzten Schicht. Zu sehen sind unaufgeschmolzene und oxidierte Partikel sowie Porositäten. Adaptiert aus ([OerlikonMetco, 2025](hhttps://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/)).*
+*Abbildung 3: Schematische Darstellung der Mikrostruktur einer thermisch gespritzten Schicht. Zu sehen sind unaufgeschmolzene und oxidierte Partikel sowie Porositäten. Adaptiert aus ([OerlikonMetco, 2025](https://www.oerlikon.com/metco/de/loesungen-und-technologien/was-ist-thermisches-spritzen/)).*
 <br/>
 
 ## Auswahl des Grundwerkstoffs (Substratmaterial)
