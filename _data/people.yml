@@ -26,6 +26,18 @@ groups:
         mail: philipp.fleck@fh-ooe.at
         photo: pfleck.jpg
 
+      - nick: chaider
+        firstname: Christian
+        lastname: Haider
+        prefix:
+        postfix: MSc
+        function:
+          en: Research Associate
+          de: Wissenschaftlicher Mitarbeiter
+        phone: +43 5 0804 27142
+        mail: christian.haider@fh-hagenberg.at
+
+
       - nick: maffenzeller
         firstname: Michael
         lastname: Affenzeller
