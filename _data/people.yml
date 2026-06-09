@@ -76,3 +76,18 @@ groups:
         phone: +43 5 0804 27142
         mail: wolfgang.rannetbauer@voestalpine.at
         photo: wrannetbauer.jpg
+
+  - name: K1MET
+    address: Stahlstraße 14
+    members:
+      - nick: mthumfart
+        firstname: Maria
+        lastname: Thumfart
+        prefix: Dr
+        postfix:
+        function:
+          en: Research Associate
+          de: Wissenschaftliche Mitarbeiterin
+        phone: +43 5 0804 00000
+        mail: maria.thumfart@k1-met.at
+        photo: mthumfart.jpg
